@@ -16,5 +16,8 @@ Feel free to follow along in the [course deck](https://docs.google.com/presentat
 
 `npm install`
 
+## Config
+- obtain apikey from [omdb](https://www.omdbapi.com/apikey.aspx)
+- edit `config.js`
 ## Run
 `npm start`
