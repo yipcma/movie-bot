@@ -3,7 +3,7 @@ movie bot code sample
 
 This is the code repo for the movie-bot exercise in the [Chatbot Workshop]. The code is adapted and modified from [this wonderful blog post](https://recast.ai/blog/nodejs-chatbot-movie-bot/).
 
-Feel free to follow along in the [course deck](https://docs.google.com/presentation/d/1n9jwU8oQyVJcvQnGp-jSBNbR8OsSyaVqRbAW6s42oy4/edit?usp=sharing).
+Feel free to follow along with the [course deck](https://docs.google.com/presentation/d/1n9jwU8oQyVJcvQnGp-jSBNbR8OsSyaVqRbAW6s42oy4/edit?usp=sharing).
 
 ## Prereqs
 - [git](https://git-scm.com/downloads)
@@ -24,6 +24,9 @@ Feel free to follow along in the [course deck](https://docs.google.com/presentat
 ## Run
 `npm start`
 
+## Test MQTT
+`npm mqtt`
+
 ## Setup Recast.ai
 
-Follow the [original blog post](https://recast.ai/blog/nodejs-chatbot-movie-bot/)
+Follow the [original blog post](https://recast.ai/blog/nodejs-chatbot-movie-bot/).
