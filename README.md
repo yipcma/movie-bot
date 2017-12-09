@@ -8,6 +8,7 @@ Feel free to follow along in the [course deck](https://docs.google.com/presentat
 ## Prereqs
 - [git](https://git-scm.com/downloads)
 - [node](https://nodejs.org/en/)
+- [ngrok](https://ngrok.com/)
 
 ## Install
 `git clone https://github.com/yipcma/movie-bot.git`
