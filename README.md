@@ -25,7 +25,9 @@ Feel free to follow along with the [course deck](https://docs.google.com/present
 `npm start`
 
 ## Test MQTT
-`npm mqtt`
+`npm mqtt`  
+In another terminal  
+`curl localhost:3000/mqtt_ping`
 
 ## Setup Recast.ai
 
