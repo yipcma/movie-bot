@@ -10,6 +10,12 @@ Feel free to follow along with the [course deck](https://docs.google.com/present
 - [node](https://nodejs.org/en/)
 - [ngrok](https://ngrok.com/)
 
+## Beginner JS resources
+
+My favorite beginner js book: [Eloquent Javascript (in-browser coding exercises)](http://eloquentjavascript.net/)
+
+Interactive tutorial: [Codecademy (Free, no need to go pro)](https://www.codecademy.com/learn/learn-javascript)
+
 ## Install
 `git clone https://github.com/yipcma/movie-bot.git`
 
