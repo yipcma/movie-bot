@@ -21,7 +21,7 @@ function discoverMovie (kind, genreId, language) {
         },
       }];
     }
-    const cards = results.slice(0, 10).map(movie => ({
+    const cards = results.data.results.slice(0, 10).map(movie => ({
       title: movie.title || movie.name,
       subtitle: movie.overview,
       imageUrl: `https://image.tmdb.org/t/p/w640${movie.poster_path}`,
