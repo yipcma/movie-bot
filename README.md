@@ -24,7 +24,8 @@ Interactive tutorial: [Codecademy (Free, no need to go pro)](https://www.codecad
 `npm install`
 
 ## Config
-- obtain apikey from [omdb](https://www.omdbapi.com/apikey.aspx)
+- obtain apikey from [themoviedb](https://www.themoviedb.org)
+- create an account, log in, go to settings, then go to API on the left panel
 - edit `config.js`
 
 ## Run
